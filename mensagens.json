@@ -1,1 +1,23 @@
-{}
+[
+  {
+    "tipo": "embed",
+    "titulo": "🎮 **CARGOS AUTOMÁTICOS**",
+    "descricao": "Sabia que eu estou sempre de olho no que você joga? \n\nAssim que você inicia um jogo Multiplayer registrado, eu te dou o cargo correspondente na hora! Isso ajuda você a ser encontrado por outros membros que querem montar uma call. Explore nossa biblioteca!",
+    "cor": "0x510B4E",
+    "imagem": ""
+  },
+  {
+    "tipo": "embed",
+    "titulo": "💡 **SUGESTÕES E MELHORIAS**",
+    "descricao": "A comunidade é feita por vocês! Tem alguma ideia de canal, cargo ou função nova para o bot? \n\nDeixe seu feedback no nosso canal de sugestões: \n👉 [Clique aqui para sugerir](https://discord.com/channels/1397717970670850132/1456028257391607901)",
+    "cor": "0x00FF88",
+    "imagem": ""
+  },
+  {
+    "tipo": "embed",
+    "titulo": "📜 **CONVIVÊNCIA E REGRAS**",
+    "descricao": "Para mantermos nosso ambiente saudável e focado na diversão, não esqueça de dar uma lida nas nossas diretrizes. Respeito mútuo é a nossa regra número 1! \n\nConfira as regras completas aqui: \n👉 [Canal de Regras](https://discord.com/channels/1397717970670850132/1397720746683273287)",
+    "cor": "0xFF4444",
+    "imagem": ""
+  }
+]
