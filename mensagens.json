@@ -3,63 +3,63 @@
     "tipo": "embed",
     "titulo": "🔗 **LINKER EM AÇÃO**",
     "descricao": "Eu fui criado pra conectar pessoas.\n\nEnquanto você joga, eu observo. Quando encontro outros jogadores com interesses em comum, faço o link acontecer. Menos tempo procurando, mais tempo jogando.",
-    "cor": "0x510B4E",
+    "cor": "510B4E",
     "imagem": ""
   },
   {
     "tipo": "embed",
     "titulo": "🎮 **CARGOS AUTOMÁTICOS**",
     "descricao": "Não precisa pedir cargo.\n\nSe você abrir um jogo multiplayer com o Discord online, eu atribuo o cargo automaticamente. Isso facilita convites, calls e novas amizades.",
-    "cor": "0x5865F2",
+    "cor": "5865F2",
     "imagem": ""
   },
   {
     "tipo": "embed",
     "titulo": "💡 **VOCÊ SABIA?**",
     "descricao": "Quanto mais cargos ativos você tem, mais fácil fica de outros jogadores te encontrarem.\n\nJogue, fique online e deixe o resto comigo.",
-    "cor": "0x00C896",
+    "cor": "00C896",
     "imagem": ""
   },
   {
     "tipo": "embed",
     "titulo": "🧭 **COMO ENCONTRAR PARCEIROS**",
     "descricao": "Quer montar uma party?\n\nEntre no **Lobby** e aguarde alguns minutos. Se houver jogadores compatíveis online, eu crio convites automáticos pra juntar todo mundo.",
-    "cor": "0xF1C40F",
+    "cor": "F1C40F",
     "imagem": ""
   },
   {
     "tipo": "embed",
     "titulo": "🧹 **SALAS SEMPRE ORGANIZADAS**",
     "descricao": "Salas vazias não ficam abandonadas aqui.\n\nQuando ninguém está na call, eu limpo automaticamente. Ambiente organizado, sem bagunça.",
-    "cor": "0x95A5A6",
+    "cor": "95A5A6",
     "imagem": ""
   },
   {
     "tipo": "embed",
     "titulo": "📈 **VISIBILIDADE IMPORTA**",
     "descricao": "Jogadores ativos aparecem mais.\n\nQuanto mais você joga com a comunidade, mais visível você fica — e maiores são as chances de receber convites.",
-    "cor": "0x2ECC71",
+    "cor": "2ECC71",
     "imagem": ""
   },
   {
     "tipo": "embed",
     "titulo": "📜 **CONVIVÊNCIA E RESPEITO**",
     "descricao": "A Zona Multiplayer é um espaço para diversão.\n\nRespeite os outros jogadores, evite toxicidade e ajude a manter a comunidade saudável.\n\n👉 [Canal de Regras](https://discord.com/channels/1397717970670850132/1397720746683273287)",
-    "cor": "0xE74C3C",
+    "cor": "E74C3C",
     "imagem": ""
   },
   {
     "tipo": "embed",
     "titulo": "👋 **NOVO NO SERVIDOR?**",
     "descricao": "Não tenha receio de entrar em uma call.\n\nTodo mundo já foi novo um dia. Entre, jogue e deixe o Linker cuidar das conexões.",
-    "cor": "0x9B59B6",
+    "cor": "9B59B6",
     "imagem": ""
   },
   {
     "tipo": "embed",
     "titulo": "💬 **SUGESTÕES E IDEIAS**",
     "descricao": "Esse servidor cresce com a comunidade.\n\nTem ideia de melhoria, novo canal ou função pro bot?\n👉 [Deixe sua sugestão aqui](https://discord.com/channels/1397717970670850132/1456028257391607901)",
-    "cor": "0x1ABC9C",
+    "cor": "1ABC9C",
     "imagem": ""
   }
 ]
