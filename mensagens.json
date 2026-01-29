@@ -1,5 +1,36 @@
 [
   {
+  "embed": [
+    {
+      "title": "É novo no servidor?",
+      "description": "Não tenha receio de entrar em um **convite automático** ou **chamada para jogar**.\nTodo mundo já foi novo um dia. Entre, jogue e deixe que eu cuidarei das conexões!\n",
+      "color": 8658054,
+      "footer": {
+        "text": "lobby e chamadas"
+      },
+      "image": {
+        "url": "https://media.discordapp.net/attachments/1462494838271246406/1466240224530006199/legal.png?ex=697c061e&is=697ab49e&hm=dcf0366aa616c9398264f9f39142229e1dca790310783d6c1ce25f2828e3d9fa&=&format=webp&quality=lossless&width=675&height=371"
+      }
+    }
+  ]
+  }
+  ,
+  {
+  "embeds": [
+    {
+      "description": "A **Zona Multiplayer** crescerá junto com a comunidade de membros.\n\nVocê tem alguma ideia nova de:\n✳️ Melhoria na comunidade\n✳️ Canal com diferente finalidade\n✳️ Função nova pro Linker?\n\n👉 **[Deixe sua sugestão aqui](https://discord.com/channels/1397717970670850132/1456028257391607901)**",
+      "footer": {
+        "text": "Sugestões e ideias"
+      },
+      "color": 5183572,
+      "image": {
+        "url": "https://media.discordapp.net/attachments/1462494838271246406/1466235916006981693/boas-vindas_LPES6BR.png?ex=697c021b&is=697ab09b&hm=2bf15a0bcdfc26ca8465490f567b705d1323c230829db3b3ad9a4844d04d8740&=&format=webp&quality=lossless&width=788&height=281"
+      }
+    }
+  ]
+  }
+  ,
+  {
     "tipo": "embed",
     "titulo": "🔗 **LINKER EM AÇÃO**",
     "descricao": "Eu fui criado pra conectar pessoas.\n\nEnquanto você joga, eu observo. Quando encontro outros jogadores com interesses em comum, faço o link acontecer. Menos tempo procurando, mais tempo jogando.",
@@ -46,20 +77,6 @@
     "titulo": "📜 **CONVIVÊNCIA E RESPEITO**",
     "descricao": "A Zona Multiplayer é um espaço para diversão.\n\nRespeite os outros jogadores, evite toxicidade e ajude a manter a comunidade saudável.\n\n👉 [Canal de Regras](https://discord.com/channels/1397717970670850132/1397720746683273287)",
     "cor": "E74C3C",
-    "imagem": ""
-  },
-  {
-    "tipo": "embed",
-    "titulo": "👋 **NOVO NO SERVIDOR?**",
-    "descricao": "Não tenha receio de entrar em uma call.\n\nTodo mundo já foi novo um dia. Entre, jogue e deixe o Linker cuidar das conexões.",
-    "cor": "9B59B6",
-    "imagem": ""
-  },
-  {
-    "tipo": "embed",
-    "titulo": "💬 **SUGESTÕES E IDEIAS**",
-    "descricao": "Esse servidor cresce com a comunidade.\n\nTem ideia de melhoria, novo canal ou função pro bot?\n👉 [Deixe sua sugestão aqui](https://discord.com/channels/1397717970670850132/1456028257391607901)",
-    "cor": "1ABC9C",
     "imagem": ""
   }
 ]
