@@ -1,5 +1,21 @@
 [
   {
+  "embeds": [
+    {
+      "image": {
+        "url": "https://media.discordapp.net/attachments/1462494838271246406/1466536284750086386/embed2.png?ex=697d19d9&is=697bc859&hm=20fbd5554f0853ab147e14f892a732d487fe563b1777bfc6e14db60bbd3345fd&=&format=webp&quality=lossless&width=675&height=371"
+      },
+      "title": "Sabia que você ganha cargos sem perceber?",
+      "footer": {
+        "text": "Sistema de cargos | Zona Multiplayer"
+      },
+      "color": 4790605,
+      "description": "Se você abrir um jogo multiplayer com o Discord online, após jogar um pouco, eu atribuo o cargo automaticamente pra você. Isso facilita convites, calls e novas amizades.\n\nDê uma olhada em quantos você já tem!"
+    }
+  ]
+  }
+  ,
+  {
   "embed": [
     {
       "title": "É novo no servidor?",
@@ -36,14 +52,8 @@
     "descricao": "Eu fui criado pra conectar pessoas.\n\nEnquanto você joga, eu observo. Quando encontro outros jogadores com interesses em comum, faço o link acontecer. Menos tempo procurando, mais tempo jogando.",
     "cor": "510B4E",
     "imagem": ""
-  },
-  {
-    "tipo": "embed",
-    "titulo": "🎮 **CARGOS AUTOMÁTICOS**",
-    "descricao": "Não precisa pedir cargo.\n\nSe você abrir um jogo multiplayer com o Discord online, eu atribuo o cargo automaticamente. Isso facilita convites, calls e novas amizades.",
-    "cor": "5865F2",
-    "imagem": ""
-  },
+  }
+  ,
   {
     "tipo": "embed",
     "titulo": "💡 **VOCÊ SABIA?**",
