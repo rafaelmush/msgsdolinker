@@ -48,14 +48,6 @@
   ,
   {
     "tipo": "embed",
-    "titulo": "🔗 **LINKER EM AÇÃO**",
-    "descricao": "Eu fui criado pra conectar pessoas.\n\nEnquanto você joga, eu observo. Quando encontro outros jogadores com interesses em comum, faço o link acontecer. Menos tempo procurando, mais tempo jogando.",
-    "cor": "510B4E",
-    "imagem": ""
-  }
-  ,
-  {
-    "tipo": "embed",
     "titulo": "💡 **VOCÊ SABIA?**",
     "descricao": "Quanto mais cargos ativos você tem, mais fácil fica de outros jogadores te encontrarem.\n\nJogue, fique online e deixe o resto comigo.",
     "cor": "00C896",
@@ -89,4 +81,20 @@
     "cor": "E74C3C",
     "imagem": ""
   }
+  ,
+  {
+  "embeds": [
+    {
+      "image": {
+        "url": "https://cdn.discordapp.com/attachments/1462494838271246406/1520256023292674058/arte.png?ex=6a408840&is=6a3f36c0&hm=0ebb4486be61f2c4da81d5dd978d398b5365598b83d98a2e04a142c1c38ca9ff"
+      },
+      "title": "Eu fui criado pra conectar pessoas 🔗",
+      "description": "Enquanto você joga, eu observo tudo. Quando encontro outros jogadores com interesses em comum, faço o link acontecer. Assim você passa menos tempo procurando e mais tempo se divertindo.",
+      "color": 5311310,
+      "footer": {
+        "text": "💜 Zona Multiplayer é sobre jogar junto."
+      }
+    }
+  ]
+}
 ]
